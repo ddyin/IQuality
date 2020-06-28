@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iquality-common/iquality-common.iml" filepath="$PROJECT_DIR$/iquality-common/iquality-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iquality-core/iquality-core.iml" filepath="$PROJECT_DIR$/iquality-core/iquality-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iquality-data/iquality-data.iml" filepath="$PROJECT_DIR$/iquality-data/iquality-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iquality-parent.iml" filepath="$PROJECT_DIR$/iquality-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iquality-web/iquality-web.iml" filepath="$PROJECT_DIR$/iquality-web/iquality-web.iml" />
+    </modules>
+  </component>
+</project>
